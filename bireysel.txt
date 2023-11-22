@@ -1,5 +1,0 @@
-
-Bireysel Musteriler (tip:0): 
-ad: Enes soyad: Ejdar dogumyeri: Tokat dogumtarihi: 1999 tip 0 no:41
-----Hesaplar:
- ------ Hesap no: 0  Hesap bakiye: 9249.00
